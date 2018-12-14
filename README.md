@@ -84,3 +84,10 @@ Quick `Mode` Reference:
 <img width="40%" src="screenshots/ios.png" alt="Loading indicator on iOS" float="left">
 
 <img width="50%" src="screenshots/android.png" alt="Loading indicator on Android" float="left">
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
